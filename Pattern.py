@@ -1,5 +1,5 @@
 
-# star,number,floyrs,pascals
+# star,number,floyrs,pascal
 
 
 # 1 hollow square
